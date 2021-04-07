@@ -39,5 +39,4 @@ bin-int/
 # files
 *.user
 
-# except below stuff!!!!!
-! vendor/bin/premake/premake5.exe
+!vendor/bin/
